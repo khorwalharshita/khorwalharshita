@@ -4,7 +4,7 @@
 </p>
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Emilys+Candy&size=24&pause=1000&color=74B9FF&center=true&vCenter=true&width=600&lines=explore,+learn,+and+develop+things.;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Emilys+Candy&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=explore,+learn,+and+develop+things.;Welcome+to+my+GitHub+Profile!" />
 </p>
 <br>
 <table border="0" cellpadding="10" cellspacing="0" width="100%" style="margin-top: 10px;">
